@@ -1,6 +1,7 @@
 ## Wichtige Gesetze die man als Elektroniker wissen sollte
 
 ### Hier sind die Gesetze aus dem nichtamtlichen Inhaltsverzeichnis gelistet.
+![BMJV](https://www.gesetze-im-internet.de/img/lay/BMJV_de_v1__BfJ_de_v1__Web_farbig.svg)
 
 * [NAV - Niederspannungsanschlussverordnung](https://www.gesetze-im-internet.de/nav/index.html)
 * [BGB - Bürgerliches Gesetzbuch](https://www.gesetze-im-internet.de/bgb/index.html)
