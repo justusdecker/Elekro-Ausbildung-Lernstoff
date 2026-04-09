@@ -38,3 +38,10 @@ Die Aufgaben bestanden darin, die Benutzeroberfläche besser kennenzulernen. Im 
 
 ![Mein Resultat](https://raw.githubusercontent.com/justusdecker/Elekro-Ausbildung-Lernstoff/refs/heads/main/summary/imgs/word_s3.jpg)
 
+## 09.04.2026
+
+An diesem Tag arbeiteten wir mit Microsoft Excel. Erstellen mussten wir einen Jahresumsatzrechner mit richtiger Formatierung, Rahmenlinien, Bezugstabellen und Funktionen. Ich nutze unter anderem **SUMME**, **MEDIAN**, **MIN**, **MAX**, **WENN**, **PRODUKT**, **QUOTIENT** & **MITTELWERT**.
+
+![Kurzer Einblick](https://raw.githubusercontent.com/justusdecker/Elekro-Ausbildung-Lernstoff/refs/heads/main/summary/imgs/excel_uebung_jahresumsatz.jpg)
+
+Zum Schluss arbeiteten wir an *WiSo*. Hier sind unter anderem **Allgemeinwissen / Politik / Wirtschaft** gefragt
