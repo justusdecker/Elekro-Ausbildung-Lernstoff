@@ -1,8 +1,12 @@
 # Wochen-Zusammenfassung
-Zeitraum: **07.04.2026 - 10.04.2026**
-
-Umschulungsjahr: [1/2]
-
+||Daten|
+|:---|---:|
+|**Name**|Justus Decker|
+|**Ausbildung**|Elektroniker fuer Betriebstechnik|
+|**Zeitraum**|$07.04.2026 - 10.04.2026$|
+|**Zusammenfassung-Nr.**| $1$|
+|**Umschulungsjahr**|$1/2$|
+***
 ## 1. Wichtige Informationen
 |Thema|Info|
 |---|---|
@@ -30,7 +34,7 @@ Umschulungsjahr: [1/2]
 ---
 |10.04.2026|
 |---:|
-|Abarbeiten der Seiten 8 und 9 im Arbeitsheft - Thema Fachtextverständnis und eigene Zusammenfassungen zum Thema Elektronen & Ladungen. Informationen zum ["Infogespräch"](#sps-in-der-gesellenprüfung) erhalten.|
+|Abarbeiten der Seiten 8 und 9 im Arbeitsheft - Thema Fachtextverständnis und eigene Zusammenfassungen zum Thema Elektronen & Ladungen. Informationen zum "Infogespräch" erhalten.|
 
 ## 3. Praktischer Teil
 
