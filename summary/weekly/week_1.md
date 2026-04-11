@@ -1,4 +1,3 @@
-# Wochen-Zusammenfassung
 ||Daten|
 |:---|---:|
 |**Name**|Justus Decker|
