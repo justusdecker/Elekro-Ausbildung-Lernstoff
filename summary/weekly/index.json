@@ -1,9 +1,17 @@
 [
     {
+        "id": "week_2",
+        "tags": [
+        ]
+    },
+    {
         "id": "week_1",
         "tags": [
             "sicherheit",
-            "word"
+            "word",
+            "excel",
+            "seite 8 abe",
+            "seite 9 abe"
         ]
     }
 ]
