@@ -1,9 +1,4 @@
-# Stundenplan
-|Lehrgang|Elektroniker|
-|---|---|
-|Gültig|$07.04.2026 - 28.07.2028$|
-|Dauer|28 Monate|
-
+## Stundenplan
 
 |Stunde|Montag|Dienstag|Mittwoch|Donnerstag|Freitag|
 |:---|:---:|:---:|:---:|:---:|:---:|
