@@ -1,4 +1,4 @@
-||Daten|
+||Daten| *k,l
 |:---|---:|
 |**Name**|Justus Decker|
 |**Ausbildung**|Elektroniker fuer Betriebstechnik|
@@ -7,13 +7,35 @@
 |**Umschulungsjahr**|$1/2$|
 ***
 ## 1. Wichtige Informationen
-...
+> [!NOTE]
+> Normschrift ist nicht so wichtig laut Herr Kruse. 
+
+### 1.1 VDE-Normen
+
+> [!ANNOTATION]
+> Ich habe provisorisch einen Markdown-Table mit allen aktuell "gesammelten" DIN-Normen, die für uns relevant sind erstellt. [Normen](https://raw.githubusercontent.com/justusdecker/Elekro-Ausbildung-Lernstoff/refs/heads/main/normen.md)
+
+### 1.2 URI
+
+Das Umstellen der Formel: $U = R * I$ ist sehr einfach. Wir müssen auf der linken Seite hinzufügen, was wir rechts nehmen.
+
+Nehmen wir also: $U = R * I | /I$ - Umkehrrechnung.
+Müssen wir es auf der anderen Seite wieder einfügen: In diesem Fall $\frac{U}{I} = R$.
+
+### 1.3 Schilder / Sicherheit
+
+* Gefahr
+* Verbot
+* Gebot
+* Sicherheit
+* Brandschutz
 
 ## 2. Theoretischer Teil
 
 |13.04.2026|
 |---:|
 |...|
+|Abarbeiten vom ABE Seite 13, 16 & 21 - 23, hier kamen unter anderem wichtige VDE-Normen & "Schilderkunde" vor - Nähere Beschreibung unter ***Wichtige Informationen***. $R = \frac{U}{I}$. Abschließend Formeln umstellen.|
 ---
 
 
@@ -22,8 +44,8 @@
 ...
 
 ## 4. Reflektion / Notizen
+* Einheiten zur *Grundeinheit* umstellen: $mA$ zu $A$ & $mV$ zu $V$.
 
-...
 
 ## 5. Merksatz
 
