@@ -15,14 +15,7 @@
 > [!IMPORTANT]
 > Ich habe provisorisch einen Markdown-Table mit allen aktuell "gesammelten" DIN-Normen, die für uns relevant sind erstellt. [Normen](https://raw.githubusercontent.com/justusdecker/Elekro-Ausbildung-Lernstoff/refs/heads/main/normen.md)
 
-### 1.2 URI
-
-Das Umstellen der Formel: $U = R * I$ ist sehr einfach. Wir müssen auf der linken Seite hinzufügen, was wir rechts nehmen.
-
-Nehmen wir also: $U = R * I | /I$ - Umkehrrechnung.
-Müssen wir es auf der anderen Seite wieder einfügen: In diesem Fall $\frac{U}{I} = R$.
-
-### 1.3 Schilder / Sicherheit
+### 1.2 Schilder / Sicherheit
 
 * Gefahr
 * Verbot
@@ -30,7 +23,7 @@ Müssen wir es auf der anderen Seite wieder einfügen: In diesem Fall $\frac{U}{
 * Sicherheit
 * Brandschutz
 
-### 1.4 Prüfung Mathematik
+### 1.3 Prüfung Mathematik
 
 > [!CAUTION]
 > Wichtig ist die **Formel**, **Einheiten** mit eintragen, der **Rechenweg** und natürlich das Ergebnis - Dieses ist zweifach zu unterstreichen!
