@@ -1,4 +1,4 @@
-||Daten| *k,l
+||Daten|
 |:---|---:|
 |**Name**|Justus Decker|
 |**Ausbildung**|Elektroniker fuer Betriebstechnik|
@@ -12,7 +12,7 @@
 
 ### 1.1 VDE-Normen
 
-> [!ANNOTATION]
+> [!IMPORTANT]
 > Ich habe provisorisch einen Markdown-Table mit allen aktuell "gesammelten" DIN-Normen, die für uns relevant sind erstellt. [Normen](https://raw.githubusercontent.com/justusdecker/Elekro-Ausbildung-Lernstoff/refs/heads/main/normen.md)
 
 ### 1.2 URI
@@ -30,14 +30,22 @@ Müssen wir es auf der anderen Seite wieder einfügen: In diesem Fall $\frac{U}{
 * Sicherheit
 * Brandschutz
 
+### 1.4 Prüfung Mathematik
+
+> [!CAUTION]
+> Wichtig ist die **Formel**, **Einheiten** mit eintragen, der **Rechenweg** und natürlich das Ergebnis - Dieses ist zweifach zu unterstreichen!
+>
+> Für Zwischenergebnisse gilt: 5 stellig und für Endergebnisse 3 stellig.
+
 ## 2. Theoretischer Teil
 
 |13.04.2026|
 |---:|
-|...|
 |Abarbeiten vom ABE Seite 13, 16 & 21 - 23, hier kamen unter anderem wichtige VDE-Normen & "Schilderkunde" vor - Nähere Beschreibung unter ***Wichtige Informationen***. $R = \frac{U}{I}$. Abschließend Formeln umstellen.|
 ---
-
+|14.04.2026|
+|---:|
+|Abarbeiten vom ABE Seite 29. Einprägen von Formelumstellungen Seite 11 ABE. Seite 191 - Seperates Blatt zum Thema $U = R * I$ und Einheiten umrechnen. Zum Schluss noch eine Führung durch das zweite Klassenzimmer aufgrund der morgigen abstinenz von Herrn K.|
 
 ## 3. Praktischer Teil
 
