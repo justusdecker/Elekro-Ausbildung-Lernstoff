@@ -30,6 +30,50 @@
 >
 > Für Zwischenergebnisse gilt: 5 stellig und für Endergebnisse 3 stellig.
 
+### 1.4 Spannung
+
+* V ist die Einheit, U das Formelzeichen
+* Spannung ist potentialunterschied zwischen zwei Polen.
+* Es gibt drei Spannungsarten:
+    * AC - Wechselspannung, Drehstrom
+    * DC - Gleichspannung
+    * UC - Mischspannung
+
+### 1.5 Stromrichtung
+
+* $+$ nach $-$, bezeichnet als technische Stromrichrichtung.
+* $-$ nach $+$, bezeichnet als elektronische Stromrichtung.
+
+> [!NOTE]
+> Historisch festgelegt, als man annahm, dass sich positive Ladungsträger bewegen.
+
+### 1.6 Wechselspannung: Effektivwert, Amplitude ...
+
+* Spannung
+    * Effektivwert: $U_{eff} = \frac{û}{\sqrt{2}}$
+    * Amplitude: $û = U_{eff}*\sqrt{2}$
+    * Spitze-Spitze: $2 * û$
+* Strom
+    * Folgt
+
+### 1.7 Strom-Gefahr
+
+* geruchslos
+* geräuschlos
+* unsichtbar
+* schnell
+* leicht zu transportieren
+* leichte Umwandlung in andere Energieformen - Siehe thermisch, kinetisch.
+* ohne Rückstände einsetzbar
+
+> [!NOTE]
+> Beim elektrischen Schlag ist der Körperstrom und die Dauer entscheidend.
+> |1mA|Reizschwelle|
+> |5mA|Elektrisieren|
+> |15mA|Krampfschwelle|
+> |50mA|Gefahrenschwelle|
+> |80mA|Todesschwelle - 0.3 - 1s wahrscheinlich|
+
 ## 2. Theoretischer Teil
 
 |13.04.2026|
@@ -39,6 +83,11 @@
 |14.04.2026|
 |---:|
 |Abarbeiten vom ABE Seite 29. Einprägen von Formelumstellungen Seite 11 ABE. Seite 191 - Seperates Blatt zum Thema $U = R * I$ und Einheiten umrechnen. Zum Schluss noch eine Führung durch das zweite Klassenzimmer aufgrund der morgigen abstinenz von Herrn K.|
+---
+|15.04.2026|
+|---:|
+|Heute war es ***sehr*** theorielastig bei Herrn T. Alle Themen aufgelistet: Spannungen, Spannungsarten, Atome, Ladungen, Aufbau der Materie, Ladungserzeugung durch Reibung, Elektronenfreisetzung im Kupfer, der Unterschied zwischen *technischer Stromrichtung* und *elektronischer Stromrichtung*, Wechselspannung & Wechselgrößen bsp.: $U_{eff} = \frac{û}{\sqrt{2}}$ - Periodendauer, Amplitude ..., Stromkreis & Kurzschluss, Phasenverschiebung - L1, L2, L3, Fehlerstromschutzschalter, Schutzklassen, Strom-Gefahr, Was ist [Spannung, Strom und Widerstand] und die Funktionen des Multimeters.|
+
 
 ## 3. Praktischer Teil
 
