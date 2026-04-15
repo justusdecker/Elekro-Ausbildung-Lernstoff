@@ -68,6 +68,8 @@
 
 > [!NOTE]
 > Beim elektrischen Schlag ist der Körperstrom und die Dauer entscheidend.
+> |Strom|Wirkung|
+> |:---:|---|
 > |1mA|Reizschwelle|
 > |5mA|Elektrisieren|
 > |15mA|Krampfschwelle|
