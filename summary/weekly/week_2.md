@@ -89,6 +89,10 @@
 |15.04.2026|
 |---:|
 |Heute war es ***sehr*** theorielastig bei Herrn T. Alle Themen aufgelistet: Spannungen, Spannungsarten, Atome, Ladungen, Aufbau der Materie, Ladungserzeugung durch Reibung, Elektronenfreisetzung im Kupfer, der Unterschied zwischen *technischer Stromrichtung* und *elektronischer Stromrichtung*, Wechselspannung & Wechselgrößen bsp.: $U_{eff} = \frac{û}{\sqrt{2}}$ - Periodendauer, Amplitude ..., Stromkreis & Kurzschluss, Phasenverschiebung - L1, L2, L3, Fehlerstromschutzschalter, Schutzklassen, Strom-Gefahr, Was ist [Spannung, Strom und Widerstand] und die Funktionen des Multimeters.|
+---
+|16.04.2026|
+|---:|
+|Abarbeiten ABE Seiten 25, 26, 27 und 30. Seite 10 und 17 in Eigeninitiative bearbeitet. Themen: *Ohmsches Gesetz*, *Potenziale und Spannungen*, *Stromkreisarten*, *Elektrische Stromstärke*. Die Themen(Eigeninitiative): *Normschrift* und *Formelzeichen & Einheiten*|
 
 
 ## 3. Praktischer Teil
@@ -97,6 +101,7 @@
 
 ## 4. Reflektion / Notizen
 * Einheiten zur *Grundeinheit* umstellen: $mA$ zu $A$ & $mV$ zu $V$.
+* 
 
 
 ## 5. Merksatz
