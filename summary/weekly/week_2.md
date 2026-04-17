@@ -76,6 +76,10 @@
 > |50mA|Gefahrenschwelle|
 > |80mA|Todesschwelle - 0.3 - 1s wahrscheinlich|
 
+### 1.8 Leiterwiderstand
+Seite 31 ABE
+$\frac{l}{\gamma * A}$
+
 ## 2. Theoretischer Teil
 
 |13.04.2026|
