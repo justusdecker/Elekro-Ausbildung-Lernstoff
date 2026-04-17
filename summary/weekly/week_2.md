@@ -103,9 +103,9 @@ $\frac{l}{\gamma * A}$
 |Abarbeiten der Seiten 31 und 35 im ABE. Besprechung der Aufgabe 8 auf Seite 28 im ABE - Thema *Potentiale und Spannungen* und Aufgabe 3 auf Seite 30 im ABE. Funktionsweise eines Trenntrafo besprochen.|
 
 ## 3. Praktischer Teil
-
-...
-
+|17.04.2026|
+|---:|
+|Aufbau und Testen von Theorie in der Praxis - Thema Spannungsabfall, Strom und Widerstand. ![Vao test](https://raw.githubusercontent.com/justusdecker/Elekro-Ausbildung-Lernstoff/refs/heads/main/summary/imgs/vao_test.jpg)|
 ## 4. Reflektion / Notizen
 * Einheiten zur *Grundeinheit* umstellen: $mA$ zu $A$ & $mV$ zu $V$.
 * 
