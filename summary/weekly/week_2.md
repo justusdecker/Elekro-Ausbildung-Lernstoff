@@ -92,8 +92,11 @@
 ---
 |16.04.2026|
 |---:|
-|Abarbeiten ABE Seiten 25, 26, 27 und 30. Seite 10 und 17 in Eigeninitiative bearbeitet. Themen: *Ohmsches Gesetz*, *Potenziale und Spannungen*, *Stromkreisarten*, *Elektrische Stromstärke*. Die Themen(Eigeninitiative): *Normschrift* und *Formelzeichen & Einheiten*|
-
+|Abarbeiten ABE Seiten 25, 26, 27 und 30. Seite 10 und 17 in Eigeninitiative bearbeitet. Themen: *Ohmsches Gesetz*, *Potentiale und Spannungen*, *Stromkreisarten*, *Elektrische Stromstärke*. Die Themen(Eigeninitiative): *Normschrift* und *Formelzeichen & Einheiten*|
+---
+|17.04.2026|
+|---:|
+|Abarbeiten der Seiten 31 und 35 im ABE. Besprechung der Aufgabe 8 auf Seite 28 im ABE - Thema *Potentiale und Spannungen* und Aufgabe 3 auf Seite 30 im ABE. Funktionsweise eines Trenntrafo besprochen.|
 
 ## 3. Praktischer Teil
 
