@@ -38,7 +38,7 @@ Der Widerstand summiert sich $R_0 = R_1 + R_2 + R_{...}$
 ---
 |21.04.2026|
 |---:|
-|Abarbeiten Extra-Arbeitsblatt Seite 193 Aufgaben 5-9. *Reihenschaltungen und Parallelschaltungen* *Widerstand*, *Strom* & *Spannung* berechnen / mit Rückrechnung beweisen, auch die Nachteile einer *Reihenschaltung* gegenüber einer *Parallelschaltung* war gefragt und was die Unterschiede zwischen beiden sind. Mehrere *Widerstände* in einer **Mischschaltung** berechnen - Seite 40 ABE. ![formel](https://raw.githubusercontent.com/justusdecker/Elekro-Ausbildung-Lernstoff/refs/heads/main/summary/imgs/m210426.png)|
+|Abarbeiten Extra-Arbeitsblatt Seite 193 Aufgaben 5-9. *Reihenschaltungen und Parallelschaltungen* *Widerstand*, *Strom* & *Spannung* berechnen / mit Rückrechnung beweisen, auch die Nachteile einer *Reihenschaltung* gegenüber einer *Parallelschaltung* war gefragt und was die Unterschiede zwischen beiden sind. Mehrere *Widerstände* in einer **Mischschaltung** berechnen - Seite 40 ABE. ![formel](https://raw.githubusercontent.com/justusdecker/Elekro-Ausbildung-Lernstoff/refs/heads/main/summary/imgs/m210426.jpg)|
 ---
 |22.04.2026|
 |---:|
