@@ -1,5 +1,17 @@
 [
     {
+        "id": "puri",
+        "tags": [
+            "widerstand",
+            "strom",
+            "spannung",
+            "leistung",
+            "puri",
+            "ohmsches",
+            "gesetz"
+        ]
+    },
+    {
         "id": "widerstaende-farbcodes",
         "tags": [
             "widerstand",
