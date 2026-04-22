@@ -1,8 +1,10 @@
 [
     {
-        "id": "monat1",
+        "id": "month_1",
         "tags": [
-            "sicherheit"
+            "sicherheit",
+            "ohmsches",
+            "gesetz"
         ]
     }
 ]
