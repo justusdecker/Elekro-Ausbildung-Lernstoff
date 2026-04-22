@@ -41,7 +41,7 @@
 
 ### 1.5 Stromrichtung
 
-* $+$ nach $-$, bezeichnet als technische Stromrichrichtung.
+* $+$ nach $-$, bezeichnet als technische Stromrichtung.
 * $-$ nach $+$, bezeichnet als elektronische Stromrichtung.
 
 > [!NOTE]
