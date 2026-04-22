@@ -8,7 +8,7 @@
 ***
 ## 1. Wichtige Informationen
 > [!NOTE]
-> Normschrift ist nicht so wichtig laut Herr Kruse. 
+> Normschrift ist nicht so wichtig laut Herr K. 
 
 ### 1.1 VDE-Normen
 
