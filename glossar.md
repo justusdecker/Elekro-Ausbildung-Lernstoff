@@ -26,3 +26,23 @@
 |VA| Voltampere|
 |VDE| Verband der Elektrotechnik, Elektronik und Informationstechnik e.V.|
 |W| Watt|
+
+# Einheiten, Einheitennamen und Formelzeichen
+
+> [!NOTE] 
+> Formelzeichen werden nach **DIN 1313** *kursiv* geschrieben.
+## Übersicht
+|physikalische Größe|Formelzeichen|Einheitenname|Einheit|
+|:---:|:---:|:---:|:---:|
+|Kraft|$F$|Newton|$N$|
+|Masse|$m$|Kilogramm|$g$ oder $kg$|
+|Temperatur|$\thetasym$|Grad Celsius|$°C$|
+|Länge|$l$|Meter|$m$|
+|Durchmesser|$d$|Millimeter|$mm$|
+|Querschnittsfläche|$A$|Quadratmillimeter|$mm^2$|
+
+## Elektro
+|physikalische Größe|Formelzeichen|Einheitenname|Einheit|
+|:---:|:---:|:---:|:---:|
+|Stromstärke|$I$|Ampere|$A$|
+|Spannung|$U$|Volt|$V$
