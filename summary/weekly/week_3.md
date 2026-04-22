@@ -47,7 +47,7 @@ $\frac{1}{\frac{1}{R_{ges}}-(\frac{1}{R_1}+\frac{1}{R_2}+\frac{1}{R_{...}})}$
 ---
 |22.04.2026|
 |---:|
-|Abarbeiten der Arbeitsblätter zu den Themen: *ohmsches Gesetz*, *Reihenschaltungen*, *Parallelschaltungen* & *Mischschaltungen*. Dann mussten wir noch im ABE Seite 47 durcharbeiten. Zwischenzeitlich habe ich mir einen Spaß gemacht mit dieser selbstgestalteten Aufgabe: ![Aufgabe](https://raw.githubusercontent.com/justusdecker/Elekro-Ausbildung-Lernstoff/refs/heads/main/summary/imgs/m220426.jpg)|
+|Abarbeiten der Arbeitsblätter zu den Themen: *ohmsches Gesetz*, *Reihenschaltungen*, *Parallelschaltungen* & *Mischschaltungen*. Dann mussten wir noch im ABE Seite 47 durcharbeiten. Zwischenzeitlich habe ich mich selbst auf die Probe gestellt mit dieser selbstgestalteten Aufgabe hier: ![Aufgabe](https://raw.githubusercontent.com/justusdecker/Elekro-Ausbildung-Lernstoff/refs/heads/main/summary/imgs/m220426.jpg)|
 ---
 |23.04.2026|
 |---:|
