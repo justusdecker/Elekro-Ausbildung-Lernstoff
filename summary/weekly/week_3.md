@@ -25,6 +25,11 @@ $U_0 = U_1 + U_2 + U_{...}$
 
 Der Widerstand summiert sich $R_0 = R_1 + R_2 + R_{...}$
 
+### 1.1.3 Fehlenden Widerstand berechnen (Parallelschaltung)
+$\frac{1}{\frac{1}{R_{ges}}-(\frac{1}{R_1}+\frac{1}{R_2}+\frac{1}{R_{...}})}$
+
+
+
 ### 1.2 Falstad Circuit Simulator
 
 [FCS](https://www.falstad.com/circuit/circuitjs.html) ist ein kostenfreies im Browser nutzbares Werkzeug zur Erstellung und Simulation von elektrischen Schaltungen - Nutze ich bereits seit mehreren Jahren.
@@ -38,10 +43,11 @@ Der Widerstand summiert sich $R_0 = R_1 + R_2 + R_{...}$
 ---
 |21.04.2026|
 |---:|
-|Abarbeiten Extra-Arbeitsblatt Seite 193 Aufgaben 5-9. *Reihenschaltungen und Parallelschaltungen* *Widerstand*, *Strom* & *Spannung* berechnen / mit Rückrechnung beweisen, auch die Nachteile einer *Reihenschaltung* gegenüber einer *Parallelschaltung* war gefragt und was die Unterschiede zwischen beiden sind. Mehrere *Widerstände* in einer **Mischschaltung** berechnen - Seite 40 ABE. ![formel](https://raw.githubusercontent.com/justusdecker/Elekro-Ausbildung-Lernstoff/refs/heads/main/summary/imgs/m210426.jpg)|
+|Abarbeiten Extra-Arbeitsblatt Seite 193 Aufgaben 5-9. *Reihenschaltungen und Parallelschaltungen* *Widerstand*, *Strom* & *Spannung* berechnen / mit Rückrechnung beweisen, auch die Nachteile einer *Reihenschaltung* gegenüber einer *Parallelschaltung* war gefragt und was die Unterschiede zwischen beiden sind. Mehrere *Widerstände* in einer **Mischschaltung** berechnen - Seite 40 ABE. ![formel](https://raw.githubusercontent.com/justusdecker/Elekro-Ausbildung-Lernstoff/refs/heads/main/summary/imgs/m210426.jpg). Seite 39 haben wir bis Aufgabe 2 bearbeitet.|
 ---
 |22.04.2026|
 |---:|
+|Abarbeiten der Arbeitsblätter zu den Themen: *ohmsches Gesetz*, *Reihenschaltungen*, *Parallelschaltungen* & *Mischschaltungen*. Dann mussten wir noch im ABE Seite 47 durcharbeiten. Zwischenzeitlich habe ich mir einen Spaß gemacht mit dieser selbstgestalteten Aufgabe: ![Aufgabe](https://raw.githubusercontent.com/justusdecker/Elekro-Ausbildung-Lernstoff/refs/heads/main/summary/imgs/m220426.jpg)|
 ---
 |23.04.2026|
 |---:|
