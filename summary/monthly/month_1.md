@@ -51,7 +51,8 @@
 * **Widerstand in einer Parallelschaltung**: $R_0 = \frac{1}{\frac{1}{R_1}+\frac{1}{R_2}+\frac{1}{R_{...}}}$
 * **Widerstand in einer Reihenschaltung**: $R_0 = R_1 + R_2 + R_{...}$
 * **Fehlenden Widerstand berechnen (Reihenschaltung)**: $R_2 = R_0 - R_1$
-    
+* **E-Reihen berechnen**: $R_n = \sqrt[E]{10^n} \quad \text{oder} \quad R_n = 10^{\frac{n}{E}}$.
+
 ## 3. Grundbegriffe
 * **Spannung**: Potentialunterschied zwischen zwei Polen.
 * **Spannungsarten**
