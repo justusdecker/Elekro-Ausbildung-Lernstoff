@@ -7,12 +7,8 @@
 |**Umschulungsjahr**|$1/2$|
 |**Wochen-Zusammenfassungen**|$1, 2, 3, 4$|
 ***
-## 1. Wichtige Informationen
-...
 
-## 2. Theoretischer Teil
-
-### 2.1 Strom und Gefahr
+## 1. Strom und Gefahr
 
 > [!CAUTION]
 > Freischalten, Gegen Wiedereinschalten sichern, Spannungsfreiheit prüfen, Erden & Kurzschließen, Abdecken / Abschranken.
@@ -37,7 +33,7 @@
 > |50mA|Gefahrenschwelle|
 > |80mA|Todesschwelle - 0.3 - 1s wahrscheinlich|
 
-### 2.2 Formeln
+## 2. Formeln
 
 * **Leiterwiderstand**: $\frac{l}{\gamma * A}$
 * **Wechselspannung**: *Effektivwert*, *Amplitude* & *Spitze-Spitze*
@@ -56,7 +52,7 @@
 * **Widerstand in einer Reihenschaltung**: $R_0 = R_1 + R_2 + R_{...}$
 * **Fehlenden Widerstand berechnen (Reihenschaltung)**: $R_2 = R_0 - R_1$
     
-### 2.3 Grundbegriffe
+## 3. Grundbegriffe
 * **Spannung**: Potentialunterschied zwischen zwei Polen.
 * **Spannungsarten**
     * **AC**: Wechselspannung, Drehstrom
@@ -75,13 +71,3 @@
     * **Misch**
 * **E-Reihen**: Mehr dazu [hier](https://de.wikipedia.org/wiki/E-Reihe)
 
-## 3. Praktischer Teil
-Aufbau und Testen von Theorie in der Praxis - Thema Spannungsabfall, Strom und Widerstand. ![Vao test](https://raw.githubusercontent.com/justusdecker/Elekro-Ausbildung-Lernstoff/refs/heads/main/summary/imgs/vao_test.jpg)
-
-## 4. Reflektion / Notizen
-
-...
-
-## 5. Merksatz
-
-...
