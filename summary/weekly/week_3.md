@@ -51,6 +51,7 @@ $\frac{1}{\frac{1}{R_{ges}}-(\frac{1}{R_1}+\frac{1}{R_2}+\frac{1}{R_{...}})}$
 ---
 |23.04.2026|
 |---:|
+|Bearbeiten von Seite 48 und 49 im ABE - Themen: *Kondensatoren*, *Amperesekunden*, *Amperestunden* & *Entlade -/ Ladestrom*|
 ---
 |24.04.2026|
 |---:|
