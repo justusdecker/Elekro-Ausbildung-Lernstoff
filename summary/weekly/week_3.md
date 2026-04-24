@@ -55,6 +55,7 @@ $\frac{1}{\frac{1}{R_{ges}}-(\frac{1}{R_1}+\frac{1}{R_2}+\frac{1}{R_{...}})}$
 ---
 |24.04.2026|
 |---:|
+|Arbeiten an WiSo Aufgaben. Besprechung der restlichen Aufgaben von Seite 49 im ABE - Thema Kondensatoren.|
 ---
 ## 3. Praktischer Teil
 
