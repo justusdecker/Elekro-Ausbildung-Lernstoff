@@ -13,7 +13,7 @@
 
 |27.04.2026|
 |---:|
-|Abarbeiten im ABE Seiten: 52, 53, 54, 55, 56, 59 & 60 - Thema: *Permanentmagnet* und *Elektromagnet*; *Magnete*, *Magnetische Feldliniens*, *Magnetische Feldstärke*, *Magnetische Durchflutung*, *Magnetischer Fluss*, *Magnetische Flussdichte*, **Lenzsche Regel**, **Schraubenregel**, **Spulenregel** & **UVW-Regel** |
+|Abarbeiten im ABE Seiten: 52, 53, 54, 55, 56, 59 & 60 - Thema: *Permanentmagnet* und *Elektromagnet*; *Magnete*, *Magnetische Feldlinien*, *Magnetische Feldstärke*, *Magnetische Durchflutung*, *Magnetischer Fluss*, *Magnetische Flussdichte*, **Lenzsche Regel**, **Schraubenregel**, **Spulenregel** & **UVW-Regel** |
 ---
 |28.04.2026|
 |---:|
@@ -29,7 +29,7 @@
 ---
 |01.05.2026|
 |---:|
-|...|
+|Feiertag|
 ---
 
 ## 3. Praktischer Teil
@@ -38,7 +38,8 @@
 
 ## 4. Reflektion / Notizen
 
-...
+> [!NOTE]
+> Zusammenfassung schreiben bis zum **01.05.2026**
 
 ## 5. Merksatz
 
