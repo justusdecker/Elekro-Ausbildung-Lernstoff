@@ -13,11 +13,11 @@
 
 |27.04.2026|
 |---:|
-|Abarbeiten im ABE Seiten: 52, 53, 54, 55, 56, 59 & 60 - Thema: *Permanentmagnet* und *Elektromagnet*; *Magnete*, *Magnetische Feldlinien*, *Magnetische Feldstärke*, *Magnetische Durchflutung*, *Magnetischer Fluss*, *Magnetische Flussdichte*, **Lenzsche Regel**, **Schraubenregel**, **Spulenregel** & **UVW-Regel** |
+|Abarbeiten im ABE Seiten: 52 - 56, 59 & 60 - Thema: *Permanentmagnet* und *Elektromagnet*; *Magnete*, *Magnetische Feldlinien*, *Magnetische Feldstärke*, *Magnetische Durchflutung*, *Magnetischer Fluss*, *Magnetische Flussdichte*, **Lenzsche Regel**, **Schraubenregel**, **Spulenregel** & **UVW-Regel**|
 ---
 |28.04.2026|
 |---:|
-|...|
+|Abarbeiten im ABE Seiten: 61, 62 & 32 - 34 - Thema: *Elektronische Induktion*, *Elektrische Energie und Arbeit*, *Elektrische Leistung* & *Wirkungsgrad*|
 ---
 |29.04.2026|
 |---:|
