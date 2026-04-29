@@ -21,7 +21,7 @@
 ---
 |29.04.2026|
 |---:|
-|...|
+|Abarbeiten und Besprechen der Ergebnisse des Arbeitsblattes - Seite 197. *Formeln umstellen*, *Ohmsches Gesetz $U = R \cdot I$*, *Leistungsberechnung $P = U \cdot I$*, *elektrische Arbeit $W = P \cdot t$*|
 ---
 |30.04.2026|
 |---:|
