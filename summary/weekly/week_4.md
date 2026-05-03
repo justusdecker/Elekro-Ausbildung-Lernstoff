@@ -25,7 +25,7 @@
 ---
 |30.04.2026|
 |---:|
-|...|
+|Prüfaufgaben zu den Themen: *ohmsches Gesetz*, *Funktionen eines Kondensators* & *Leistung*. Danach wurden die Aufgaben besprochen.|
 ---
 |01.05.2026|
 |---:|
