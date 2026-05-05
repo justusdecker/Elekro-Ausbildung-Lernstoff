@@ -15,7 +15,10 @@
 |---:|
 |Bewerbungstraining: *Lebenslauf schreiben*.|
 ---
-
+|05.05.2026|
+|---:|
+|Bewerbungstraining: *Anschreiben schreiben*.|
+---
 
 ## 3. Praktischer Teil
 
