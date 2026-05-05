@@ -8,12 +8,6 @@
 |**Wochen-Zusammenfassungen**|$1, 2, 3, 4$|
 ***
 
-# Was fehlt?
-* Elektrisches Feld
-* Magnetisches Feld
-* *3.1 Wechselstrom* Formeln
-* PURI - Ersetzt *6. URI*
-
 ### 1. Strom und Gefahr
 
 #### 1.1 Sicherheitsregeln
