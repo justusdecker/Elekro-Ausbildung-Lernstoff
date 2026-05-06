@@ -13,11 +13,15 @@
 
 |04.05.2026|
 |---:|
-|Bewerbungstraining: *Lebenslauf schreiben*.|
+|Bewerbungstraining: *Lebenslauf* schreiben.|
 ---
 |05.05.2026|
 |---:|
-|Bewerbungstraining: *Anschreiben schreiben*.|
+|Bewerbungstraining: *Anschreiben* schreiben.|
+---
+|06.05.2026|
+|---:|
+|Bewerbungstraining: *Anschreiben  und Lebenslauf* überarbeiten. Aufgabenblätter zum Thema: *Was ist lernen?* und *eigene Präferenzen* ausfüllen.|
 ---
 
 ## 3. Praktischer Teil
