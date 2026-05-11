@@ -23,6 +23,14 @@
 |---:|
 |Bewerbungstraining: *Anschreiben  und Lebenslauf* überarbeiten. Aufgabenblätter zum Thema: *Was ist lernen?* und *eigene Präferenzen* ausfüllen.|
 ---
+|07.05.2026|
+|---:|
+|Bewerbungstraining: *Anschreiben und Lebenslauf* überarbeiten.|
+---
+|08.05.2026|
+|---:|
+|Praktikumssuche|
+---
 
 ## 3. Praktischer Teil
 
