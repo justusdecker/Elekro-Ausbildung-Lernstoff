@@ -25,7 +25,7 @@
 
 |12.05.2026|
 |---:|
-|Schaltungsaufbau: *Ausschaltung* ![Bild fehlt](https://raw.githubusercontent.com/justusdecker/Elekro-Ausbildung-Lernstoff/refs/heads/main/summary/imgs/b120526_1) *Ausschaltung mit permanenter Orientierungsbeleuchtung* ![Bild fehlt](https://raw.githubusercontent.com/justusdecker/Elekro-Ausbildung-Lernstoff/refs/heads/main/summary/imgs/b120526_2)|
+|Schaltungsaufbau: *Ausschaltung* ![Bild fehlt](https://raw.githubusercontent.com/justusdecker/Elekro-Ausbildung-Lernstoff/refs/heads/main/summary/imgs/b120526_1.jpg) *Ausschaltung mit permanenter Orientierungsbeleuchtung* ![Bild fehlt](https://raw.githubusercontent.com/justusdecker/Elekro-Ausbildung-Lernstoff/refs/heads/main/summary/imgs/b120526_2.jpg)|
 ---
 
 ## 4. Reflektion / Notizen
