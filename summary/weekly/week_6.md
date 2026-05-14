@@ -19,7 +19,18 @@
 |---:|
 |Schaltungen besprochen: *Ausschaltung*, *Wechselschaltung*, *Sparwechselschaltung*, *Ausschaltung mit permanenter Orientierungsbeleuchtung*|
 ---
-
+|13.05.2026|
+|---:|
+|Übungsaufgaben zum Thema: *elektrische Leistung und Arbeit*. Ausbildungsnachweis schreiben. Praktikumsbewerbungsfortschritt besprochen.|
+---
+|14.05.2026|
+|---:|
+|Feiertag|
+---
+|15.05.2026|
+|---:|
+|Brückentag|
+---
 
 ## 3. Praktischer Teil
 
