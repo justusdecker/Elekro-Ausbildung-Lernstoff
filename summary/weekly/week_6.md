@@ -3,7 +3,7 @@
 |**Name**|Justus Decker|
 |**Ausbildung**|Elektroniker fuer Betriebstechnik|
 |**Zeitraum**|$11.05.2026 - 15.05.2026$|
-|**Zusammenfassung-Nr.**| $2$|
+|**Zusammenfassung-Nr.**| $6$|
 |**Umschulungsjahr**|$1/2$|
 ***
 ## 1. Wichtige Informationen
