@@ -23,10 +23,18 @@
 |---:|
 |Mischschaltungen berechnen. *IP Schutzarten*, *Gefärdungsbeurteilungen*, *Gesetze*, und Prüfmethoden beprochen - z.B. $R_{ISO}$ Isolationswiderstandsmessung.|
 ---
+|21.05.2026|
+|---:|
+|Mischschaltungen / *belastete* & *unbelastete* Spannungsteiler berechnen. Besprechen der Messverfahren. $U_x = \frac{U}{\frac{R_1 * (R_L + R_2)}{R_L * R_2}}$|
+---
+|22.05.2026|
+|---:|
+|Bericht schreiben. Mischaltungen berechnen.|
+---
 
 ## 3. Praktischer Teil
 
-...
+* Isolationswiderstandsmessung und Schutzleitermessung beim Handyladegerät.
 
 ## 4. Reflektion / Notizen
 
