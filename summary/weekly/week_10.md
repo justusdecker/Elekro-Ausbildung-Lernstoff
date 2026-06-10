@@ -15,6 +15,14 @@
 |---:|
 |WiSo Übungsaufgaben. Wiederholung: ohmsches Gesetz, Schaltungen, sinusförmige Wechselspannung und Kenngrößen - ABE S 77.|
 ---
+|09.06.2026|
+|---:|
+|Bauteilkompatibilität anhand der Bemssungsspannung berechnen. Schwierigere Gleichstromrechenaufgaben.|
+---
+|10.06.2026|
+|---:|
+|Oszilloskop Aufbau, Messungen und Gefahren.|
+---
 
 
 ## 3. Praktischer Teil
